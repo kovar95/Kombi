@@ -6,7 +6,24 @@
   font-family: sans-serif;
   color: white;
   text-shadow: 2px 2px 3px black;
-
+  .phone {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 175px;
+    height: 55px;
+    display: flex;
+    text-decoration: none;
+    color: black;
+    justify-content: space-between;
+    align-items: center;
+    font-style: italic;
+    img {
+      display: block;
+      width: 50px;
+      height: 50px;
+    }
+  }
   img {
     filter: drop-shadow(5px 5px 16px black);
   }

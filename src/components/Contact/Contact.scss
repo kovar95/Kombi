@@ -29,6 +29,11 @@
       align-items: center;
       margin: 20px auto;
       padding: 10px;
+      opacity: 0;
+      transition: 1s all ease-in-out;
+      &.visible {
+        opacity: 1;
+      }
       img {
         display: block;
         width: 70px;

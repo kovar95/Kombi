@@ -17,7 +17,11 @@ const About = props => {
         poteškoćama. Želite sami da izvršite selidbu, a treba vam samo kombi?
         Nikakav problem, kod nas ga možete izmajmiti po povoljnim cenama, bilo
         da vam treba sa selidbu, transport ili bilo kakav drugi posao, mi smo
-        tu, kao i naš kombi.
+        tu, kao i naš kombi. Vršimo i transport robe razne namene, naravno, u
+        granicama gabarita tovarnog prostora vozila koje su 330x170x190 cm.
+        Nominalna cena rentiranja kombija je 45 &euro; za 24h. Naravno, uvek se
+        možemo dogovoriti oko cene a tu je i dodatni popust na iznajmljivanje na
+        više dana.
       </p>
       <div className="skills">
         <div className="skill">

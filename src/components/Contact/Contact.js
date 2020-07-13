@@ -1,8 +1,8 @@
 import React from 'react';
 import './Contact.scss';
-import phone from '../../img/contact.png';
+import phone from '../../img/call.png';
 import email from '../../img/mail.png';
-import location from '../../img/location.png';
+import location from '../../img/location7.png';
 
 const Contact = props => {
   return (
@@ -16,7 +16,7 @@ const Contact = props => {
         </div>
         <div className="num">
           <img src={email} alt="" />
-          <span>dejanstanojkovic@yahoo.com</span>
+          <span>dejanstanojkovic30@yahoo.com</span>
         </div>
         <div className="num">
           <img src={location} alt="" />
