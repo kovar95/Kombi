@@ -10,7 +10,7 @@ const Location = props => {
         <iframe
           title="mymap"
           id="gmap_canvas"
-          src="https://maps.google.com/maps?q=vase%20pelagica%202%2F2%2C%20PAncevo&t=&z=13&ie=UTF8&iwloc=&output=embed"
+          src="https://maps.google.com/maps?q=Pan%C4%8Devo%2C%20Streli%C5%A1te&t=&z=13&ie=UTF8&iwloc=&output=embed"
           frameBorder="0"
           scrolling="no"
           marginHeight="0"

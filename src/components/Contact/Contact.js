@@ -20,7 +20,7 @@ const Contact = props => {
         </div>
         <div className="num">
           <img src={location} alt="" />
-          <span>Vase Pelagića 2/2, Pančevo</span>
+          <span>Strelište, Pančevo</span>
         </div>
       </div>
     </div>
