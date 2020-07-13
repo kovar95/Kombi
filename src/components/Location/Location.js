@@ -5,7 +5,7 @@ const Location = props => {
   return (
     <div className="location" id="location">
       <h1>Lokacija</h1>
-      <p>Nalazimo se na lokaciji Vase Pelagića 2/2, Pančevo.</p>
+      <p>Nalazimo se na lokaciji Strelište, Pančevo.</p>
       <div className="map">
         <iframe
           title="mymap"
